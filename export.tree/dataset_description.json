@@ -1,0 +1,18 @@
+{
+    "Authors": [
+        "Jia-Xi Wang",
+        "Jin-Ying Zhuang",
+        "Lulu Fu",
+        "Qin Lei"
+    ],
+    "BIDSVersion": "1.0.1",
+    "DatasetDOI": "10.18112/openneuro.ds003005.v1.0.0",
+    "Funding": [
+        "National Natural Science Foundation of China (71971084)"
+    ],
+    "License": "CC0",
+    "Name": "How ovarian hormones influence the behaviroal activation and inhibition system through the dopamine pathway",
+    "ReferencesAndLinks": [
+        "TODO"
+    ]
+}
